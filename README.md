@@ -4,7 +4,7 @@
 
 Designvorschau für World of Warships · Design showcase for World of Warships
 
-**FH-Version / FH version: 1.0.0 · Stand / Updated: 24.10.2026**
+**FH-Version / FH version: 1.0.0 · Stand / Updated: 04.11.2026**
 
 ## Deutsch
 
@@ -18,7 +18,7 @@ Die Vorschau zeigt zwölf Haupt-Ribbons und zehn Untergrafiken, jeweils 3× verg
 
 ### Offizieller World of Warships ModHub
 
-**Von Wargaming freigegeben und im offiziellen ModHub veröffentlicht:** [FH Modern Military im ModHub](https://mods.worldofwarships.com/mod/409). Der GitHub-Release-Download bleibt als alternative manuelle Installation verfügbar.
+**Von Wargaming freigegeben und im offiziellen ModHub veröffentlicht:** [FH Modern Military im ModHub](https://mods.worldofwarships.com/mod/409). Alle vier FH-Ribbon-Sets sind über die [offizielle WoWS ModStation](https://worldofwarships.eu/en/content/modstation/) verfügbar. Der GitHub-Release-Download bleibt als alternative manuelle Installation verfügbar.
 
 ### Download und Installation
 
@@ -38,7 +38,7 @@ Spieloriginale in `res`, `idx`, `res_packages` sowie Loader-/XML-Dateien behalte
 
 ### Prüfung und Konflikte
 
-Technischer Ressourcenstand: **World of Warships 15.9.0.0, Build 13357625**. Die 72 Pfade, Maße, RGBA-/Alpha-Eigenschaften und Hashes sind technisch geprüft. Dies ist kein Nachweis, dass alle 72 Gefechtsereignisse einzeln im Spiel getestet wurden. Nach Spielupdates Clientversion, aktiven Modpfad und Paketfassung neu prüfen.
+Technischer Ressourcenstand: **World of Warships 15.9.0.0, Build 13357625**. Die 72 Pfade, Maße, RGBA-/Alpha-Eigenschaften und Hashes sind technisch geprüft. FeuchterHase hat alle 72 Gefechtsereignisse einzeln im Spiel getestet. Nach Spielupdates Clientversion, aktiven Modpfad und Paketfassung neu prüfen.
 
 Alle vier FH-Stile belegen dieselben 72 PNG-Pfade und schließen sich gegenseitig aus. Andere Ribbon-Mods mit denselben Pfaden können ebenfalls überschrieben werden. Nur eine Ribbon-Ersetzung für diese Ressourcen auswählen.
 
@@ -60,7 +60,7 @@ The preview shows twelve main ribbons and ten sub-ribbons, each enlarged 3×.
 
 ### Official World of Warships ModHub
 
-**Approved by Wargaming and published in the official ModHub:** [FH Modern Military on ModHub](https://mods.worldofwarships.com/mod/409). The GitHub release remains available as an alternative manual download.
+**Approved by Wargaming and published in the official ModHub:** [FH Modern Military on ModHub](https://mods.worldofwarships.com/mod/409). All four FH ribbon sets are available through the [official WoWS ModStation](https://worldofwarships.eu/en/content/modstation/). The GitHub release remains available as an alternative manual download.
 
 ### Download and installation
 
@@ -80,7 +80,7 @@ Keep original files in `res`, `idx` and `res_packages`, and loader/XML files, un
 
 ### Verification and conflicts
 
-Technical resource reference: **World of Warships 15.9.0.0, Build 13357625**. The 72 resource paths, dimensions, RGBA/alpha and hashes were technically checked. This does not establish that all 72 battle events were individually tested in game. After game updates, recheck the client version, active mod path and package version.
+Technical resource reference: **World of Warships 15.9.0.0, Build 13357625**. The 72 resource paths, dimensions, RGBA/alpha and hashes were technically checked. FeuchterHase tested all 72 battle events individually in game. After game updates, recheck the client version, active mod path and package version.
 
 All four FH styles use the same 72 PNG paths and are mutually exclusive. Other ribbon mods writing these paths may also be overwritten. Select only one ribbon replacement for these resources.
 
