@@ -4,7 +4,7 @@
 
 Designvorschau für World of Warships · Design showcase for World of Warships
 
-**FH-Version / FH version: 1.0.0 · Stand / Updated: 04.11.2026**
+**FH-Version / FH version: 1.0.0 · Stand / Updated: 05.11.2026**
 
 ## Deutsch
 
@@ -38,7 +38,7 @@ Spieloriginale in `res`, `idx`, `res_packages` sowie Loader-/XML-Dateien behalte
 
 ### Prüfung und Konflikte
 
-Technischer Ressourcenstand: **World of Warships 15.9.0.0, Build 13357625**. Die 72 Pfade, Maße, RGBA-/Alpha-Eigenschaften und Hashes sind technisch geprüft. FeuchterHase hat alle 72 Gefechtsereignisse einzeln im Spiel getestet. Nach Spielupdates Clientversion, aktiven Modpfad und Paketfassung neu prüfen.
+**WoWS 15.10.0.0 (Build 13533378) ist technisch geprüft.** Alle 72 Pfade, PNG-Maße und Transparenzeigenschaften passen. Von den Spieloriginalen sind 67 byteidentisch und fünf Motive für den neuen Gefechtsmodus optisch verändert. Pfade und Maße dieser fünf bleiben gleich. Das Set verwendet weiterhin die bestehenden FH-Motive. Das ZIP v1.0.0 eignet sich für die manuelle Installation. Der Spieltest unter 15.10 steht noch aus. FeuchterHase hat alle 72 Gefechtsereignisse unter 15.9 einzeln im Spiel getestet. Der ModHub-Eintrag ist derzeit für 15.9 gekennzeichnet.
 
 Alle vier FH-Stile belegen dieselben 72 PNG-Pfade und schließen sich gegenseitig aus. Andere Ribbon-Mods mit denselben Pfaden können ebenfalls überschrieben werden. Nur eine Ribbon-Ersetzung für diese Ressourcen auswählen.
 
@@ -80,7 +80,7 @@ Keep original files in `res`, `idx` and `res_packages`, and loader/XML files, un
 
 ### Verification and conflicts
 
-Technical resource reference: **World of Warships 15.9.0.0, Build 13357625**. The 72 resource paths, dimensions, RGBA/alpha and hashes were technically checked. FeuchterHase tested all 72 battle events individually in game. After game updates, recheck the client version, active mod path and package version.
+**WoWS 15.10.0.0 (build 13533378) has passed the resource compatibility check.** All 72 paths, PNG dimensions and transparency properties match. Of the original game assets, 67 are byte-identical and five designs for the new battle mode have changed visually. Those five retain their paths and dimensions. The set keeps the existing FH artwork. The v1.0.0 ZIP can be used for manual installation. In-game testing on 15.10 is pending. FeuchterHase tested all 72 battle events individually in game on 15.9. The ModHub entry currently lists 15.9.
 
 All four FH styles use the same 72 PNG paths and are mutually exclusive. Other ribbon mods writing these paths may also be overwritten. Select only one ribbon replacement for these resources.
 
